@@ -1,4 +1,4 @@
----
+Sadijah the wizard king---
 title: Ending notes
 slug: ending-notes
 ---
